@@ -1,4 +1,5 @@
 # Tinyduck
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/Tinyduck/blob/master/images/tinyduck_front.jpg?raw=true" width="400"><img alt="Marauder logo" src="https://github.com/justcallmekoko/Tinyduck/blob/master/images/tinyduck_back.jpg?raw=true" width="400"></p>
 <p align="center">
   <b>The super tiny USB Rubber Ducky</b>
   <br><br>
@@ -19,6 +20,7 @@
 - [Usage](#usage)
 
 # About
+If you don't already know about the USB Rubber Ducky, check it out [here](https://shop.hak5.org/products/usb-rubber-ducky-deluxe). Escentially is a keystroke injection tool that comes in the form factor of a USB thumb drive. It will execute a prewritten script of keystrokes on a target computer as though it were a keyboard. If you can do it with a keyboard, you can do it with a USB Rubber Ducky but faster. There are a lot of projects online [here](https://www.youtube.com/watch?v=fGmGBa-4cYQ), [here](https://www.youtube.com/watch?v=wwFhMG8D7Lc), and [here](https://www.youtube.com/watch?v=A3cB9BDE6XM) showing how to create your own USB Rubber ducky using the digispark development board. The whole reason I created the project was to see just how small I could make the device itself. While the firmware and the concept isn't ground breaking, I am proud to have been the one to create a USB Rubber Ducky with a footprint the size of an overgrown fingernail.
 
 # Setup
 The Tinyduck functions the same way as the digispark attiny85 board right down to the bootloader. If you have already setup your Arduino IDE to work with the digispark and know how to use it, you can skip [Flashing Firmware](#flashing-firmware).
@@ -45,7 +47,7 @@ To upload your new ducky script firmware to Tinyduck, follow the steps below (As
 1. Under `Tools`>`Boards`, select `Digispark (Default - 16.5Mhz)`
 2. <b>with Tinyduck unplugged</b> click the upload button
 3. Wait for the IDE to instruct you to plug in your device then insert Tinyduck
-  - The firmware should promptly start uploading to Tinyduck
+    - The firmware should promptly start uploading to Tinyduck
 4. Unplug Tinyduck as soon as the upload completes to avoid firmware execution
 
 ## Issues
