@@ -11,6 +11,13 @@
   <a href="https://www.tindie.com/products/justcallmekoko/tinyduck-usb-rubber-ducky/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 </p>
 
+Catch my live stream on [Twitch](https://www.twitch.tv/willstunforfood) where I play games, have just chatting sessions to talk tech, and just generally be an ordinary person who can't figure out how to make proper life decisions.
+  
+  Stream Schedule:  
+    Mon: 1800 - 2000 EST  
+    Wed: 1800 - 2000 EST  
+    Sun: 1200 - 1400 EST  
+
 # Table of Condemnation
 - [About](#about)
 - [Setup](#setup)
